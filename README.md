@@ -20,8 +20,12 @@ Olá ! Eu sou a Ana Paula pode me chamar de Anyy ok!✋
 ##
 <div> 
   <a href="https://www.youtube.com/channel/UCjAp9rXStYahp5YJlqrr6DQ" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  
- 
+  <a href="https://instagram.com/any_sann" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+   <a href="https://www.linkedin.com/in/ana-paula-dos-santos-018753183" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+   
+   
+   
+   
   ![Snake animation](https://github.com/anyy520/anyy520/blob/output/github-contribution-grid-snake.svg)
  
 </div>
