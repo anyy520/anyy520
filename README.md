@@ -22,6 +22,6 @@ Olá ! Eu sou a Ana Paula pode me chamar de Anyy ok!✋
   <a href="https://www.youtube.com/channel/UCjAp9rXStYahp5YJlqrr6DQ" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   
  
-  ![Snake animation](https://github.com/anyy520/any520/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/anyy520/anyy520/blob/output/github-contribution-grid-snake.svg)
  
 </div>
