@@ -26,6 +26,6 @@ Olá ! Eu sou a Ana Paula pode me chamar de Anyy ok!✋
    
    
    
-  ![Snake animation](https://github.com/anyy520/anyy520/blob/output/github-contribution-grid-snake.svg)
+
  
 </div>
