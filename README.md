@@ -1,7 +1,4 @@
-Olá ! Eu sou a Ana Paula pode me chamar de Anyy ok!✋
-- 🔭 Hoje trabalho ensinando programação para crianças
-- 🌱 Estudo Analise e Desenvolvimento de Sistemas e Pedagogia 
-- 😄 Pronouns: Ela/dela
+##Olá ! Eu sou a Ana Paula pode me chamar de Anyy ok! 🔭 Hoje trabalho ensinando programação para crianças. Estudo Analise e Desenvolvimento de Sistemas e Pedagogia 
 <div align="center">
   <a href="https://github.com/anyy520">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=anyy520&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
