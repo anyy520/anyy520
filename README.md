@@ -1,7 +1,7 @@
 ##Olá ! Eu sou a Ana Paula pode me chamar de Anyy ok! Trabalho ensinando programação para crianças. Formada em Ánalise e Desenvolvimento de Sistemas e estudo Pedagogia. 
 <div align="center">
 
-<a href='https://postimg.cc/RNCyzv1y' target='_blank'><img src='https://i.postimg.cc/RNCyzv1y/1-T9-C-TKih-CSISWo6-If-Me-Oo-Q.gif' border='0' alt='1-T9-C-TKih-CSISWo6-If-Me-Oo-Q'/></a>
+[![1-T9-C-TKih-CSISWo6-If-Me-Oo-Q.gif](https://i.postimg.cc/X79bdJrj/1-T9-C-TKih-CSISWo6-If-Me-Oo-Q.gif)](https://postimg.cc/RNCyzv1y)
  <a href="https://github.com/rafaballerini">
 </div>
 <div style="display: inline_block"><br>
