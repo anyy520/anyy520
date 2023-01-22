@@ -1,7 +1,7 @@
 ##Olá ! Eu sou a Ana Paula pode me chamar de Anyy ok! Trabalho ensinando programação para crianças. Formada em Ánalise e Desenvolvimento de Sistemas e estudo Pedagogia. 
 <div align="center">
 
-
+<a href='https://postimg.cc/2VwY4HTR' target='_blank'><img src='https://i.postimg.cc/2VwY4HTR/png-clipart-open-computer-illustration-computer-text-computer.png' border='0' alt='png-clipart-open-computer-illustration-computer-text-computer'/></a>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
