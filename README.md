@@ -1,4 +1,4 @@
-##Olá ! Eu sou a Ana Paula pode me chamar de Anyy ok! Trabalho ensinando programação para crianças. Formada em Ánalise e Desenvolvimento de Sistemas e estudo Pedagogia. 
+##Olá ! Eu sou a Ana Paula pode me chamar de Anyy ok! Trabalho ensinando programação para crianças. Formada em Ánalise e Desenvolvimento de Sistemas e último semestre em  Pedagogia. 
 <div align="center">
 
 <a href='https://postimg.cc/2VwY4HTR' target='_blank'><img src='https://i.postimg.cc/2VwY4HTR/png-clipart-open-computer-illustration-computer-text-computer.png' border='0' alt='png-clipart-open-computer-illustration-computer-text-computer'/></a>
