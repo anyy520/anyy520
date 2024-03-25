@@ -1,5 +1,5 @@
 Olá ! Eu sou a Ana Paula pode me chamar de Anyy, ok? Trabalho ensinando programação para crianças e adolescentes. 
-Formada em Ánalise e Desenvolvimento de Sistemas e  Pedagogia no momento também atuo como Coodernadora de cursos Profissionalizantes do Estado de SÃO Paulo (Desenvolvimento de Sistemas).
+Formada em Ánalise e Desenvolvimento de Sistemas e  Pedagogia no momento também atuo como Coodernadora de cursos Profissionalizantes do Estado de São Paulo (Desenvolvimento de Sistemas).
 Sejam todos muito bem-vindos !
 <div align="center">
 
