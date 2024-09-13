@@ -3,7 +3,7 @@ Formada em Ánalise e Desenvolvimento de Sistemas e  Pedagogia no momento també
 Sejam todos muito bem-vindos !
 <div align="center">
 
-<a href='https://postimg.cc/2VwY4HTR' target='_blank'><img src='https://i.postimg.cc/2VwY4HTR/png-clipart-open-computer-illustration-computer-text-computer.png' border='0' alt='png-clipart-open-computer-illustration-computer-text-computer'/></a>
+<a href='https://postimg.cc/2VwY4HTR' target='_blank'><img src='https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png' border='0' alt='png-clipart-open-computer-illustration-computer-text-computer'/></a>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
